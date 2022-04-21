@@ -102,7 +102,7 @@ To add this DWORD value by using Registry Editor, follow these steps:
 5. On the **Edit** menu, select **Modify**.
 6. Type *1*, and then select **OK**.
 7. Restart your computer, and then change your password.
-
+New text
 > [!NOTE]
 >
 > - This registry change must be made on all Windows Server 2003 domain controllers to disable the storage of LM hashes of users' passwords in a Windows 2003 Active Directory environment. If you're a domain administrator, you can use Active Directory Users and Computers Microsoft Management Console (MMC) to deploy this policy to all domain controllers or all computers on the domain as described in Method 1 (Implement the NoLMHash Policy by Using Group Policy).
